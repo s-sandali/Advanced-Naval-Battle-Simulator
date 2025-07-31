@@ -1,0 +1,39 @@
+Escort Ship 1: Type - E, Position - (8, 28), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns
+Escort Ship 2: Type - C, Position - (10, 32), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 3: Type - C, Position - (5, 38), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 4: Type - E, Position - (10, 40), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns
+Escort Ship 5: Type - D, Position - (2, 51), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun
+Escort Ship 6: Type - E, Position - (0, 53), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns
+Escort Ship 7: Type - C, Position - (7, 51), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 8: Type - A, Position - (1, 13), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun
+Escort Ship 9: Type - E, Position - (9, 51), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns
+Escort Ship 10: Type - C, Position - (9, 41), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 11: Type - A, Position - (4, 2), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun
+Escort Ship 12: Type - E, Position - (2, 47), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns
+Escort Ship 13: Type - C, Position - (6, 24), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 14: Type - A, Position - (8, 21), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun
+Escort Ship 15: Type - D, Position - (5, 6), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun
+Escort Ship 16: Type - A, Position - (4, 23), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun
+Escort Ship 17: Type - C, Position - (9, 62), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun
+Escort Ship 18: Type - D, Position - (10, 39), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun
+Escort Ship 19: Type - B, Position - (3, 49), Name - Gabbiano-class Corvette, Gun Name - L/47 dual-purpose gun
+Escort Ship 1: Type - C, Position - (7, 3), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 2: Type - B, Position - (15, 11), Name - Gabbiano-class Corvette, Gun Name - L/47 dual-purpose gun, Impact Power - 0.06
+Escort Ship 3: Type - E, Position - (14, 19), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns, Impact Power - 0.04
+Escort Ship 4: Type - D, Position - (2, 10), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun, Impact Power - 0.05
+Escort Ship 5: Type - E, Position - (8, 17), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns, Impact Power - 0.04
+Escort Ship 6: Type - D, Position - (2, 3), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun, Impact Power - 0.05
+Escort Ship 7: Type - A, Position - (15, 10), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun, Impact Power - 0.08
+Escort Ship 8: Type - C, Position - (18, 20), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 9: Type - D, Position - (4, 0), Name - F-class Escort Ships, Gun Name - SK C/32 naval gun, Impact Power - 0.05
+Escort Ship 10: Type - E, Position - (16, 14), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns, Impact Power - 0.04
+Escort Ship 11: Type - C, Position - (3, 11), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 12: Type - B, Position - (7, 13), Name - Gabbiano-class Corvette, Gun Name - L/47 dual-purpose gun, Impact Power - 0.06
+Escort Ship 13: Type - C, Position - (9, 8), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 14: Type - E, Position - (11, 11), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns, Impact Power - 0.04
+Escort Ship 15: Type - B, Position - (4, 0), Name - Gabbiano-class Corvette, Gun Name - L/47 dual-purpose gun, Impact Power - 0.06
+Escort Ship 16: Type - C, Position - (3, 11), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 17: Type - E, Position - (10, 13), Name - Japanese Kaibōkan, Gun Name - (4.7 inch) naval guns, Impact Power - 0.04
+Escort Ship 18: Type - A, Position - (9, 7), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun, Impact Power - 0.08
+Escort Ship 1: Type - C, Position - (7, 4), Name - Matsu-class Destroyer, Gun Name - Type 89 dual-purpose gun, Impact Power - 0.07
+Escort Ship 2: Type - A, Position - (16, 8), Name - 1936A-classDestroyer, Gun Name - SK C/34 naval gun, Impact Power - 0.08
