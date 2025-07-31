@@ -1,0 +1,824 @@
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: Richelieu
+Selected Gun Name: (15 inch) Mle 1935 gun
+Selected Battle Velocity: 200.00
+Selected Angle: 0.00
+Battleship Position: (9, 7)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 45
+Max Velocity: 240
+Velocity: 159
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 29
+Max Velocity: 41
+Velocity: 40
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 45
+Max Velocity: 240
+Velocity: 159
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 29
+Max Velocity: 41
+Velocity: 40
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 45
+Max Velocity: 240
+Velocity: 159
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 37
+Max Velocity: 199
+Velocity: 97
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 29
+Max Velocity: 41
+Velocity: 40
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 45
+Max Velocity: 240
+Velocity: 159
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 29
+Max Velocity: 41
+Velocity: 40
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 45
+Max Velocity: 240
+Velocity: 159
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 29
+Max Velocity: 41
+Velocity: 40
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 23
+Max Velocity: 194
+Velocity: 189
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 37
+Max Velocity: 199
+Velocity: 97
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: Sovetsky Soyuz-class
+Selected Gun Name: (16 inch) B-37 gun
+Selected Battle Velocity: 200.00
+Selected Angle: 0.00
+Battleship Position: (5, 13)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 1
+Max Velocity: 141
+Velocity: 86
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 1
+Max Velocity: 141
+Velocity: 86
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 2
+Max Velocity: 100
+Velocity: 61
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 1
+Max Velocity: 141
+Velocity: 86
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 46
+Max Velocity: 240
+Velocity: 211
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 1
+Max Velocity: 141
+Velocity: 86
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 46
+Max Velocity: 240
+Velocity: 211
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 1
+Max Velocity: 141
+Velocity: 86
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 46
+Max Velocity: 240
+Velocity: 211
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 2
+Max Velocity: 100
+Velocity: 61
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 46
+Max Velocity: 240
+Velocity: 211
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 1
+Max Angle: 26
+Min Velocity: 17
+Max Velocity: 23
+Velocity: 17
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 2
+Max Velocity: 100
+Velocity: 61
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 28
+Max Velocity: 35
+Velocity: 28
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: Sovetsky Soyuz-class
+Selected Gun Name: (16 inch) B-37 gun
+Selected Battle Velocity: 230.00
+Selected Angle: 0.00
+Battleship Position: (11, 23)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 36
+Max Velocity: 180
+Velocity: 101
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 9
+Max Velocity: 83
+Velocity: 80
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 38
+Max Velocity: 100
+Velocity: 55
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 25
+Max Velocity: 166
+Velocity: 46
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 38
+Max Velocity: 100
+Velocity: 55
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 25
+Max Velocity: 166
+Velocity: 46
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 8
+Max Velocity: 276
+Velocity: 174
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 36
+Max Velocity: 180
+Velocity: 101
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 25
+Max Velocity: 166
+Velocity: 46
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 38
+Max Velocity: 100
+Velocity: 55
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 36
+Max Velocity: 180
+Velocity: 101
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 9
+Max Velocity: 83
+Velocity: 80
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 36
+Max Velocity: 180
+Velocity: 101
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 38
+Max Velocity: 100
+Velocity: 55
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 9
+Max Velocity: 83
+Velocity: 80
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 36
+Max Velocity: 180
+Velocity: 101
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 38
+Max Velocity: 100
+Velocity: 55
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 8
+Max Velocity: 276
+Velocity: 174
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: 
+Selected Gun Name: 36A-classDestroyer
+Selected Battle Velocity: 314651031087549443263815951235555805965836210963676825818151393101622124608972859117997441429966181982401105516444298245067843616500610086665390349938910577033216.00
+Selected Angle: 0.00
+Battleship Position: (4, 5)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 8
+Max Velocity: 156
+Velocity: 63
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 10
+Max Velocity: 288
+Velocity: 77
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: Sovetsky Soyuz-class
+Selected Gun Name: (16 inch) B-37 gun
+Selected Battle Velocity: 250.00
+Selected Angle: 0.00
+Battleship Position: (11, 10)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 36
+Max Velocity: 300
+Velocity: 78
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 38
+Max Velocity: 241
+Velocity: 55
+Initial Conditions of the Battlefield:
+Battleship Details:
+Selected Battleship Type: 
+Selected Gun Name: 36A-classDestroyer
+Selected Battle Velocity: 314651031087549443263815951235555805965836210963676825818151393101622124608972859117997441429966181982401105516444298245067843616500610086665390349938910577033216.00
+Selected Angle: 0.00
+Battleship Position: (1, 2)
+
+Initial Conditions of Escort Ships:
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 5
+Max Velocity: 126
+Velocity: 98
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 5
+Max Velocity: 126
+Velocity: 98
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 5
+Max Velocity: 126
+Velocity: 98
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 6
+Max Velocity: 224
+Velocity: 218
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 10
+Max Velocity: 288
+Velocity: 156
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 10
+Max Velocity: 288
+Velocity: 156
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 6
+Max Velocity: 224
+Velocity: 218
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 10
+Max Velocity: 288
+Velocity: 156
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 6
+Max Velocity: 224
+Velocity: 218
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 5
+Max Velocity: 126
+Velocity: 98
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 6
+Max Velocity: 224
+Velocity: 218
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type D:
+Name: F-class Escort Ships
+Gun Name: SK C/32 naval gun
+Impact Power: 0.05
+Range: 50
+Min Angle: 0
+Max Angle: 50
+Min Velocity: 5
+Max Velocity: 126
+Velocity: 98
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type A:
+Name: 1936A-classDestroyer
+Gun Name: SK C/34 naval gun
+Impact Power: 0.08
+Range: 20
+Min Angle: 0
+Max Angle: 20
+Min Velocity: 10
+Max Velocity: 288
+Velocity: 156
+Escort Ship Type C:
+Name: Matsu-class Destroyer
+Gun Name: Type 89 dual-purpose gun
+Impact Power: 0.07
+Range: 25
+Min Angle: 0
+Max Angle: 25
+Min Velocity: 46
+Max Velocity: 186
+Velocity: 175
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
+Escort Ship Type B:
+Name: Gabbiano-class Corvette
+Gun Name: L/47 dual-purpose gun
+Impact Power: 0.06
+Range: 30
+Min Angle: 0
+Max Angle: 30
+Min Velocity: 6
+Max Velocity: 224
+Velocity: 218
+Escort Ship Type E:
+Name: Japanese Kaibōkan
+Gun Name: (4.7 inch) naval guns
+Impact Power: 0.04
+Range: 70
+Min Angle: 0
+Max Angle: 70
+Min Velocity: 28
+Max Velocity: 153
+Velocity: 43
